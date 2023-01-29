@@ -51,6 +51,8 @@ h1 {
 }
 
 input {
+    color: black;
+    font: Bold 18pt Arial;
     width: 500px;
     padding-left: 10px;
 }
